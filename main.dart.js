@@ -48056,7 +48056,7 @@ A.MI.prototype={
 jM(){var s=0,r=A.a2(t.wi),q,p,o,n,m
 var $async$jM=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.a7S(A.nL("http://139.162.247.61:3000/get")),$async$jM)
+return A.Z(A.a7S(A.nL("https://139.162.247.61:3000/get")),$async$jM)
 case 3:m=b
 if(m.b===200){p=B.a8.t4(0,A.a7I(A.a6P(m.e).c.a.i(0,"charset")).c9(0,m.w),null)
 o=J.ac(p)
@@ -48072,7 +48072,7 @@ A.MJ.prototype={
 jL(){var s=0,r=A.a2(t.y3),q,p,o,n
 var $async$jL=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.a7S(A.nL("http://139.162.247.61:3000/getBunder")),$async$jL)
+return A.Z(A.a7S(A.nL("https://139.162.247.61:3000/getBunder")),$async$jL)
 case 3:n=b
 if(n.b===200){p=B.a8.t4(0,A.a7I(A.a6P(n.e).c.a.i(0,"charset")).c9(0,n.w),null)
 o=J.ac(p)
